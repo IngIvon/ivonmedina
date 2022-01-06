@@ -1,1 +1,5 @@
-Hola 20222 esté es mi primer ejercicio de platzi
+hi esté es mi primer ejercicio de platzi
+Este es el cambio
+hi mundo
+
+Mañana nos enfocaremos en...
